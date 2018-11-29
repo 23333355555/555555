@@ -1,5 +1,8 @@
 
-音频测试 <div align=center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//res001.geekbang.org/resource/audio/36/47/3680a35a61e9bb3cca4ea6918d964647.mp3"></iframe></div>
+音频测试 
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://res001.geekbang.org/resource/audio/36/47/3680a35a61e9bb3cca4ea6918d964647.mp3">
+      </audio>
 
 [开篇词 | 这年头，你真应该懂点法律常识](https://res001.geekbang.org/resource/audio/36/47/3680a35a61e9bb3cca4ea6918d964647.mp3)
 ![图片.png](https://upload-images.jianshu.io/upload_images/14424898-601c205f7cbe065d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
