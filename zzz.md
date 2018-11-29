@@ -1,7 +1,7 @@
 
 音频测试 
 <audio id="audio" controls="" preload="none">
-      <source id="mp3" src="https://res001.geekbang.org/resource/audio/36/47/3680a35a61e9bb3cca4ea6918d964647.mp3">
+      <source id="mp3" src="http://res001.geekbang.org/resource/audio/36/47/3680a35a61e9bb3cca4ea6918d964647.mp3">
       </audio>
 
 [开篇词 | 这年头，你真应该懂点法律常识](https://res001.geekbang.org/resource/audio/36/47/3680a35a61e9bb3cca4ea6918d964647.mp3)
