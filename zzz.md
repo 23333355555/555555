@@ -2,6 +2,8 @@
 [开篇词 | 这年头，你真应该懂点法律常识](https://res001.geekbang.org/resource/audio/36/47/3680a35a61e9bb3cca4ea6918d964647.mp3)
 ![图片.png](https://upload-images.jianshu.io/upload_images/14424898-601c205f7cbe065d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+音频测试 <iframe height=498 width=510 src="https://res001.geekbang.org/resource/audio/36/47/3680a35a61e9bb3cca4ea6918d964647">
+
 [01 “老周，我想知道” | 常见法律认知盲区（一）](https://res001.geekbang.org/resource/audio/ce/79/cea35933682e26eb89e73f4e6d086779.mp3)
 ![图片.png](https://upload-images.jianshu.io/upload_images/14424898-1c9b7c741d0180b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
